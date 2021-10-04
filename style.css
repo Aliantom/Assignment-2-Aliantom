@@ -1,0 +1,8 @@
+
+input[type="radio"] + label {
+    background-color: yellow;  
+}
+
+input[type="radio"]:checked + label {
+    background-color: lime;  
+}
